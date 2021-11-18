@@ -1,0 +1,30 @@
+[
+    {
+        "id": 111,
+        "title": "Maintenance Package",
+        "price": 80,
+        "price_cent": 89,
+        "planFor": "Personal",
+        "features": ["Dental cleaning","Polishing", "Filling", "Gum care", "Flossing", "Oral hygiene"],
+        "img": "../img/plans/plan1.jpg"
+    },
+    {
+        "id": 112,
+        "title": "Cosmetic Surgeries",
+        "price": 92,
+        "price_cent": 49,
+        "planFor": "Personal",
+        "features": ["Root canal treatment","Braces", "Implants", "Bridges", "Crown", "Dentures"],
+        "img": "../img/plans/plan2.jpg"
+        
+    },
+    {
+        "id": 113,
+        "title": "Restorative Procedures",
+        "price": 130,
+        "price_cent": 95,
+        "planFor": "Personal",
+        "features": ["Missing teeth","Bridges", "Tooth  bonding", "Porcelain veneers", "Invisalign", "Inlays & Onlays"],
+        "img": "../img/plans/plan3.jpg"
+    }
+]

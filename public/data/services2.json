@@ -1,0 +1,34 @@
+[
+    {
+      "id": 2201,
+      "title": "Restorative Dentistry",
+      "describe": "Nam vitae augue non nisi rhoncus cursus. Nunc nec posuere lorem. Maecenas turpis dui, vestibulum in libero et, sollicitudin viverra leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin in quam faucibus, interdum ante a, mattis nibh.",
+      "describe2": "Curabitur non ipsum risus. Cras pharetra gravida lectus, interdum consectetur elit sodales et. Pellentesque convallis, dui sit amet congue scelerisque, tortor nunc elementum sem, eget lobortis lacus.",
+      "price": 120,
+      "img": "../img/services/services14.jpg"
+    },
+    {
+      "id": 2202,
+      "title": "Implant Dentistry",
+      "describe": "Curabitur non ipsum risus. Cras pharetra gravida lectus, interdum consectetur elit sodales et. Pellentesque convallis, dui sit amet congue scelerisque, tortor nunc elementum sem, eget lobortis lacus.",
+      "describe2": "Nam vitae augue non nisi rhoncus cursus. Nunc nec posuere lorem. Maecenas turpis dui, vestibulum in libero et, sollicitudin viverra leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin in quam faucibus, interdum ante a, mattis nibh",
+      "price": 110,
+      "img": "../img/services/services15.jpg"
+    },
+    {
+      "id": 2203,
+      "title": "Cosmetic Dentistry",
+      "describe": "Nam vitae augue non nisi rhoncus cursus. Nunc nec posuere lorem. Maecenas turpis dui, vestibulum in libero et, sollicitudin viverra leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin in quam faucibus, interdum ante a, mattis nibh.",
+      "describe2": "Curabitur non ipsum risus. Cras pharetra gravida lectus, interdum consectetur elit sodales et. Pellentesque convallis, dui sit amet congue scelerisque, tortor nunc elementum sem, eget lobortis lacus.",
+      "price": 118,
+      "img": "../img/services/services16.jpg"
+    },
+    {
+      "id": 2204,
+      "title": "Preventive Dentistry",
+      "describe": "Nam vitae augue non nisi rhoncus cursus. Nunc nec posuere lorem. Maecenas turpis dui, vestibulum in libero et, sollicitudin viverra leo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin in quam faucibus, interdum ante a, mattis nibh.",
+      "describe2": "Curabitur non ipsum risus. Cras pharetra gravida lectus, interdum consectetur elit sodales et. Pellentesque convallis, dui sit amet congue scelerisque, tortor nunc elementum sem, eget lobortis lacus",
+      "price": 135,
+      "img": "../img/services/services17.jpg"
+    }
+  ]

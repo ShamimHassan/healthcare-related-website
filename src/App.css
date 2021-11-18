@@ -1,0 +1,57 @@
+
+
+/* common */
+img{
+    max-width: 100%;
+}
+.service-detail img{
+    width: 100%;
+}
+
+/* menu active */
+.active{
+    color: #fff;
+    font-weight: 600;
+}
+
+
+/* not found page */
+#page-not-found .not-found{
+    min-height: 100vh;
+    background: url(./img/page-404.gif) no-repeat;
+    background-position: center;
+    background-size: cover;
+    position: relative;
+}
+.button-box{
+    position: absolute;
+    bottom: 50px;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+/* footer */
+.subscribe-btn{
+    border-top-right-radius: 50px !important;
+    border-bottom-right-radius: 50px !important;
+}
+.subscribe-input{
+    border-top-left-radius: 50px !important;
+    border-bottom-left-radius: 50px !important;
+}
+
+/* slider */
+.slider-caption{
+    background: #000000a6;
+    padding: 30px 0 !important;
+}
+@media only screen and (max-width: 578px) {
+    .slider-img{
+        height: 300px;
+    }
+}
+.banner-section{
+    background: #02afce url(./img/slide-one.jpg) center;
+    background-size: cover;
+    background-blend-mode: overlay;
+}

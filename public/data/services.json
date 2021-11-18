@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1101,
+      "title": "Painless Dental Procedures",
+      "describe": "Lorem ipsum dolor sit amet, consectetur adipis cing elit. Nullam id arcu tortor. Sed get sit ame egestasquis.",
+      "price": 129,
+      "img": "../img/blog1.jpg"
+    },
+    {
+      "id": 1102,
+      "title": "Dental Hygiene in Pregnancy",
+      "describe": "Lorem ipsum dolor sit amet, consectetur adipis cing elit. Nullam id arcu tortor. Sed get sit ame egestasquis.",
+      "price": 109,
+      "img": "../img/blog2.jpg"
+    },
+    {
+      "id": 1103,
+      "title": "Tooth Extraction",
+      "describe": "Lorem ipsum dolor sit amet, consectetur adipis cing elit. Nullam id arcu tortor. Sed get sit ame egestasquis.",
+      "price": 142,
+      "img": "../img/blog3.jpg"
+    },
+    {
+      "id": 1104,
+      "title": "Gum Infection - Gingivitis",
+      "describe": "Lorem ipsum dolor sit amet, consectetur adipis cing elit. Nullam id arcu tortor. Sed get sit ame egestasquis.",
+      "price": 121,
+      "img": "../img/blog4.jpg"
+    },
+    {
+      "id": 1105,
+      "title": "Dental Sealants Application",
+      "describe": "Lorem ipsum dolor sit amet, consectetur adipis cing elit. Nullam id arcu tortor. Sed get sit ame egestasquis.",
+      "price": 100,
+      "img": "../img/blog5.jpg"
+    },
+    {
+      "id": 1106,
+      "title": "Teeth Whitening Procedures",
+      "describe": "Lorem ipsum dolor sit amet, consectetur adipis cing elit. Nullam id arcu tortor. Sed get sit ame egestasquis.",
+      "price": 134,
+      "img": "../img/blog6.jpg"
+    }
+  ]
